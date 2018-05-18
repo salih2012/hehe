@@ -1,0 +1,1 @@
+start %AppData%\hehe-master\run.bat
